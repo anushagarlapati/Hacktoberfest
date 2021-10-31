@@ -11,5 +11,5 @@ def merge(intervals):
 
         return m
         
-intervals=[[7,7],[2,3],[6,11],[1,2]]
+intervals=[[7,7],[2,3],[6,11],[1,2],[7,8]]
 print(merge(intervals))
